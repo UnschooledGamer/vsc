@@ -1,4 +1,4 @@
 {
     "liveServer.settings.port": 5504,
-    "python.pythonPath": "/usr/bin/python2"
+    "python.pythonPath": "/home/gitpod/.pyenv/versions/3.8.10/bin/python"
 }
